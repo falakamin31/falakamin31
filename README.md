@@ -14,8 +14,8 @@
 <hr>
 
 <p align="center">
-    <img class="darkMode" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=falakamin31&theme=dark&hide_border=true&ring=30d158&fire=30d158&currStreakLabel=30d158&background=FFFFFF00&stroke=00000000&count_private=true&include_all_commits=true" />
-    <img class="darkMode"  src="https://activity-graph.herokuapp.com/graph?username=falakamin31&count_private=true&hide_border=true&bg_color=FFFFFF00&custom_title=Open%20Source%20Contributions&line=34c75950&point=34c759&theme=github" />
+    <img class="darkMode" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=falakamin31&theme=dark&hide_border=true&ring=30d158&fire=30d158&currStreakLabel=30d158&background=0d1117&stroke=00000000&count_private=true&include_all_commits=true" />
+    <img class="darkMode"  src="https://activity-graph.herokuapp.com/graph?username=falakamin31&count_private=true&hide_border=true&bg_color=0d1117&custom_title=Open%20Source%20Contributions&line=34c75950&point=34c759&theme=github" />
 </p>
 
 <h3>Skills and Tools </h3>
