@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Falak 🙋‍♀️</h1>
-<h3 align="center">React Developer</h3> 
+<h2 align="center">React Developer</h2> 
 
 - 🎓  I am a 3rd Year Undergraduate student at <a href="https://uet.edu.pk"> <b>University of Engineering and Technology, Lahore</b> </a>
-- 🏢 I am currently working on `React` `Firebase`
+- 🏢 I am currently working on <span align="left"><img style="margin:auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"      alt=react width="14" height="14"/> </span> React <span align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="14" height="14"/> </span> Firebase
+
 - 🌱 Learning new technologies
 - 🔥 Open-Source Contributor
-- 💬 Ping me about **Design**,**Web development**, **Design thinking**
+- 💬 Ping me about **Design**, **Web development**, **Design thinking**
 - 👧 Pronouns: she/her
 - 🪐 Open for **Intern Opportunities**
-----
+
 # Experiences #
-  Web Developer Intern at **Helfertech**
-<hr>
+- Web Developer Intern at **Helfertech**
 
 <p align="center">
     <img class="darkMode" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=falakamin31&theme=dark&hide_border=true&ring=30d158&fire=30d158&currStreakLabel=30d158&background=0d1117&stroke=00000000&count_private=true&include_all_commits=true" />
     <img class="darkMode"  src="https://activity-graph.herokuapp.com/graph?username=falakamin31&count_private=true&hide_border=true&bg_color=0d1117&custom_title=Open%20Source%20Contributions&line=34c75950&point=34c759&theme=github" />
 </p>
 
-<h3>Skills and Tools </h3>
+
+<h3> Skills and Tools </h3> 
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
@@ -35,7 +36,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 </p>
 
----
 <h3>Programming Languages </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
