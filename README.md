@@ -2,7 +2,7 @@
 <h2 align="center">React Developer</h2> 
 
 - 🎓  I am a 3rd Year Undergraduate student at <a href="https://uet.edu.pk"> <b>University of Engineering and Technology, Lahore</b> </a>
-- 🏢 I am currently working on <span align="left"><img style="margin:auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"      alt=react width="14" height="14"/> </span> React <span align="left"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="14" height="14"/> </span> Firebase
+- 🏢 I am currently working on React <span align="left"><img style="margin:auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"      alt=react width="14" height="14"/> </span> 
 
 - 🌱 Learning new technologies
 - 🔥 Open-Source Contributor
