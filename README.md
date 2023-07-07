@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Falak Amin <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" alt="star" height="36px" width="32px"> </h1>
-<h3 align="center">React Developer</h3> 
+<h3 align="center">Software Engineer</h3> 
 <br>
 
 
