@@ -1,16 +1,15 @@
-<h1 align="center">Hi, I'm Falak <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" alt="star" height="36px" width="32px"> </h1>
+<h1 align="center">Hi, I'm Falak Amin <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" alt="star" height="36px" width="32px"> </h1>
 <h3 align="center">React Developer</h3> 
 <br>
 
 
-- 🎓  I am a 3rd Year Undergraduate student at <a href="https://uet.edu.pk"> <b>University of Engineering and Technology, Lahore</b> </a>
+- 👩🏻‍💻  I am a Software Engineer </a>
 - 🏢 I am currently working on React <span align="left"><img style="margin:auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png"      alt=react width="14" height="14"/> </span> 
-
 - 🌱 Learning new technologies
 - 🔥 Open-Source Contributor
 - 💬 Ping me about **Design**, **Web development**, **Design thinking**
 - 👧 Pronouns: she/her
-- 🪐 Open for **Intern Opportunities**
+- 🪐 Open for **Job Opportunities**
 
 ## Experiences 
 - Web Developer Intern at **Helfertech**
