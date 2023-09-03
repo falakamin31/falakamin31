@@ -19,6 +19,8 @@
     <img class="darkMode"  src="https://activity-graph.herokuapp.com/graph?username=falakamin31&count_private=true&hide_border=true&bg_color=0d1117&custom_title=Open%20Source%20Contributions&line=34c75950&point=34c759&theme=github" />
 </p>
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
 
 ## Skills and Tools 
 <p align="left">
